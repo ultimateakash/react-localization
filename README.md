@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Localization Integration With Laravel 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center"><img src="https://github.com/ultimateakash/react-localization/blob/master/public/react-localization.png"></p>
 
 ## Available Scripts
 
