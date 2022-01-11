@@ -1,4 +1,4 @@
-# Localization Integration With Laravel 
+# Localization Implementation In React 
 
 <p align="center"><img src="https://github.com/ultimateakash/react-localization/blob/master/public/react-localization.png"></p>
 
